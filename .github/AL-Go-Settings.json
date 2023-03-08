@@ -1,0 +1,7 @@
+{
+  "type": "PTE",
+  "templateUrl": "https://github.com/businesscentralapps/tmpi6OgOu-PTE@main",
+  "runs-on": "ubuntu-latest",
+  "shell": "pwsh",
+  "MicrosoftTelemetryConnectionString": ""
+}
